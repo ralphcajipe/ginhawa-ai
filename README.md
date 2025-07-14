@@ -118,7 +118,7 @@ This project is set up to run directly in the browser without a complex build pr
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/ginhawa-ai.git
+    git clone https://github.com/ralphcajipe/ginhawa-ai.git
     cd ginhawa-ai
     ```
 
@@ -147,7 +147,7 @@ Currently, the project does not have an automated testing suite. Manual testing 
 *   [ ] Implement user accounts to save a history of transformations.
 *   [ ] Integrate with a mapping service to tag locations.
 
-See the [open issues](https://github.com/your-username/ginhawa-ai/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/ralphcajipe/ginhawa-ai/issues) for a full list of proposed features (and known issues).
 
 ---
 
