@@ -8,7 +8,23 @@
 
 ---
 
-### 📒 About The Project
+## 📑 Table of Contents
+
+- [📒About The Project](#about-the-project)
+- [💚Example Transformations](#example-transformations)
+- [🔧Built With](#built-with)
+- [💻Setup](#setup)
+- [✅Tests](#tests)
+- [🗺️Roadmap](#roadmap)
+- [🤝Contributing](#contributing)
+- [✉️Authors](#authors)
+- [⭐Acknowledgments](#acknowledgments)
+- [📦Version History](#version-history)
+
+---
+
+
+### About The Project
 
 **Ginhawa AI** helps you visualize the cities and towns you deserve through AI-powered transformation. The name "Ginhawa" is a Filipino word for "relief" or "comfort," reflecting our goal: to help redesign public spaces so they truly serve people.
 
@@ -16,7 +32,10 @@ This tool empowers anyone to reimagine their streets. Upload a photo of any urba
 
 Our mission is to inspire change by making the potential of our communities tangible and beautiful.
 
+[Back to Top](#📑-table-of-contents)
+
 ---
+
 
 ### Example Transformations
 
@@ -90,9 +109,12 @@ Our mission is to inspire change by making the potential of our communities tang
   </tr>
 </table>
 
+[Back to Top](#📑-table-of-contents)
+
 ---
 
-### 🔧 Built With
+
+### Built With
 
 *   **Frontend:** [React](https://react.dev/) & [TypeScript](https://www.typescriptlang.org/)
 *   **AI Models:**
@@ -100,9 +122,12 @@ Our mission is to inspire change by making the potential of our communities tang
     *   [Google Imagen 3](https://ai.google.dev/) for image generation.
 *   **Styling:** Modern CSS with Custom Properties
 
+[Back to Top](#📑-table-of-contents)
+
 ---
 
-### 💻 Setup
+
+### Setup
 
 To get a local copy up and running, follow these simple steps.
 
@@ -128,9 +153,12 @@ This project is set up to run directly in the browser without a complex build pr
 3.  **Run the app:**
     `npm run dev`
 
+[Back to Top](#📑-table-of-contents)
+
 ---
 
-### ✅ Tests
+
+### Tests
 
 Currently, the project does not have an automated testing suite. Manual testing can be performed by:
 1.  Running the application locally.
@@ -138,9 +166,12 @@ Currently, the project does not have an automated testing suite. Manual testing 
 3.  Verifying that a transformed image is generated successfully.
 4.  Checking for proper error handling when an image is not uploaded or the API key is invalid.
 
+[Back to Top](#📑-table-of-contents)
+
 ---
 
-### 🗺️ Roadmap
+
+### Roadmap
 
 *   [ ] Allow users to customize the transformation prompt (e.g., "spanish colonial era style," "add more bike lanes").
 *   [ ] Add a "Share to Social Media" feature.
@@ -149,28 +180,42 @@ Currently, the project does not have an automated testing suite. Manual testing 
 
 See the [open issues](https://github.com/ralphcajipe/ginhawa-ai/issues) for a full list of proposed features (and known issues).
 
+[Back to Top](#📑-table-of-contents)
+
 ---
 
-### 🤝 Contributing
+
+### Contributing
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement."
 
+[Back to Top](#📑-table-of-contents)
+
 ---
 
-### ✉️ Authors
+
+### Authors
 
 *   **Ralph Cajipe** - *Developer* - [ralphcajipe](https://github.com/ralphcajipe)
 
+[Back to Top](#📑-table-of-contents)
+
 ---
 
-### ⭐ Acknowledgments
+
+### Acknowledgments
 
 *   [Google AI](https://ai.google.dev/) for the powerful Gemini and Imagen models.
 *   Inspiration from urbanists and communities advocating for better cities, especially my friend [Stephen](https://github.com/Stephencamilon) who encouraged me to build this.
 
+[Back to Top](#📑-table-of-contents)
+
 ---
 
-### 📦 Version History
+
+### Version History
 
 *   **v1.0.0** (Current)
     *   Initial release with core functionality: upload an image and generate its potential transformation.
+
+[Back to Top](#📑-table-of-contents)
