@@ -32,7 +32,7 @@ This tool empowers anyone to reimagine their streets. Upload a photo of any urba
 
 Our mission is to inspire change by making the potential of our communities tangible and beautiful.
 
-[Back to Top](#📑-table-of-contents)
+[Back to Top](#-table-of-contents)
 
 ---
 
@@ -109,7 +109,7 @@ Our mission is to inspire change by making the potential of our communities tang
   </tr>
 </table>
 
-[Back to Top](#📑-table-of-contents)
+[Back to Top](#-table-of-contents)
 
 ---
 
@@ -122,7 +122,7 @@ Our mission is to inspire change by making the potential of our communities tang
     *   [Google Imagen 3](https://ai.google.dev/) for image generation.
 *   **Styling:** Modern CSS with Custom Properties
 
-[Back to Top](#📑-table-of-contents)
+[Back to Top](#-table-of-contents)
 
 ---
 
@@ -153,7 +153,7 @@ This project is set up to run directly in the browser without a complex build pr
 3.  **Run the app:**
     `npm run dev`
 
-[Back to Top](#📑-table-of-contents)
+[Back to Top](#-table-of-contents)
 
 ---
 
@@ -166,7 +166,7 @@ Currently, the project does not have an automated testing suite. Manual testing 
 3.  Verifying that a transformed image is generated successfully.
 4.  Checking for proper error handling when an image is not uploaded or the API key is invalid.
 
-[Back to Top](#📑-table-of-contents)
+[Back to Top](#-table-of-contents)
 
 ---
 
@@ -180,7 +180,7 @@ Currently, the project does not have an automated testing suite. Manual testing 
 
 See the [open issues](https://github.com/ralphcajipe/ginhawa-ai/issues) for a full list of proposed features (and known issues).
 
-[Back to Top](#📑-table-of-contents)
+[Back to Top](#-table-of-contents)
 
 ---
 
@@ -189,7 +189,7 @@ See the [open issues](https://github.com/ralphcajipe/ginhawa-ai/issues) for a fu
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement."
 
-[Back to Top](#📑-table-of-contents)
+[Back to Top](#-table-of-contents)
 
 ---
 
@@ -198,7 +198,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 *   **Ralph Cajipe** - *Developer* - [ralphcajipe](https://github.com/ralphcajipe)
 
-[Back to Top](#📑-table-of-contents)
+[Back to Top](#-table-of-contents)
 
 ---
 
@@ -208,7 +208,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 *   [Google AI](https://ai.google.dev/) for the powerful Gemini and Imagen models.
 *   Inspiration from urbanists and communities advocating for better cities, especially my friend [Stephen](https://github.com/Stephencamilon) who encouraged me to build this.
 
-[Back to Top](#📑-table-of-contents)
+[Back to Top](#-table-of-contents)
 
 ---
 
@@ -218,4 +218,4 @@ If you have a suggestion that would make this better, please fork the repo and c
 *   **v1.0.0** (Current)
     *   Initial release with core functionality: upload an image and generate its potential transformation.
 
-[Back to Top](#📑-table-of-contents)
+[Back to Top](#-table-of-contents)
